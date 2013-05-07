@@ -1,0 +1,117 @@
+/* Generic */
+.defaultSkin body {
+font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px;
+scrollbar-3dlight-color:#F0F0EE;
+scrollbar-arrow-color:#676662;
+scrollbar-base-color:#F0F0EE;
+scrollbar-darkshadow-color:#DDDDDD;
+scrollbar-face-color:#E0E0DD;
+scrollbar-highlight-color:#F0F0EE;
+scrollbar-shadow-color:#F0F0EE;
+scrollbar-track-color:#F5F5F5;
+background:#F0F0EE;
+padding:0;
+margin:8px 8px 0 8px;
+}
+
+.defaultSkin html {background:#F0F0EE;}
+.defaultSkin td {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px;}
+.defaultSkin textarea {resize:none;outline:none;}
+.defaultSkin a:link, .defaultSkin a:visited {color:black;}
+.defaultSkin a:hover {color:#2B6FB6;}
+.defaultSkin .nowrap {white-space: nowrap}
+
+/* Forms */
+.defaultSkin fieldset {margin:0; padding:4px; border:1px solid #919B9C; font-family:Verdana, Arial; font-size:10px;}
+.defaultSkin legend {color:#2B6FB6; font-weight:bold;}
+.defaultSkin label.msg {display:none;}
+.defaultSkin label.invalid {color:#EE0000; display:inline;}
+.defaultSkin input.invalid {border:1px solid #EE0000;}
+.defaultSkin input {background:#FFF; border:1px solid #CCC;}
+.defaultSkin input, .defaultSkin select, .defaultSkin textarea {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px;}
+.defaultSkin input, .defaultSkin select, .defaultSkin textarea {border:1px solid #808080;}
+.defaultSkin input.radio {border:1px none #000000; background:transparent; vertical-align:middle;}
+.defaultSkin input.checkbox {border:1px none #000000; background:transparent; vertical-align:middle;}
+.defaultSkin .input_noborder {border:0;}
+
+/* Buttons */
+.defaultSkin #insert, .defaultSkin #cancel, .defaultSkin input.button, .defaultSkin .updateButton {
+border:0; margin:0; padding:0;
+font-weight:bold;
+width:94px; height:26px;
+background:url(img/buttons.png) 0 -26px;
+cursor:pointer;
+padding-bottom:2px;
+float:left;
+}
+
+.defaultSkin #insert {background:url(img/buttons.png) 0 -52px}
+.defaultSkin #cancel {background:url(img/buttons.png) 0 0; float:right}
+
+/* Browse */
+.defaultSkin a.pickcolor, .defaultSkin a.browse {text-decoration:none}
+.defaultSkin a.browse span {display:block; width:20px; height:18px; background:url(../../img/icons.gif) -860px 0; border:1px solid #FFF; margin-left:1px;}
+.defaultSkin .mceOldBoxModel a.browse span {width:22px; height:20px;}
+.defaultSkin a.browse:hover span {border:1px solid #0A246A; background-color:#B2BBD0;}
+.defaultSkin a.browse span.disabled {border:1px solid white; opacity:0.3; -ms-filter:'alpha(opacity=30)'; filter:alpha(opacity=30)}
+.defaultSkin a.browse:hover span.disabled {border:1px solid white; background-color:transparent;}
+.defaultSkin a.pickcolor span {display:block; width:20px; height:16px; background:url(../../img/icons.gif) -840px 0; margin-left:2px;}
+.defaultSkin .mceOldBoxModel a.pickcolor span {width:21px; height:17px;}
+.defaultSkin a.pickcolor:hover span {background-color:#B2BBD0;}
+.defaultSkin a.pickcolor:hover span.disabled {}
+
+/* Charmap */
+.defaultSkin table.charmap {border:1px solid #AAA; text-align:center}
+.defaultSkin td.charmap, .defaultSkin #charmap a {width:18px; height:18px; color:#000; border:1px solid #AAA; text-align:center; font-size:12px; vertical-align:middle; line-height: 18px;}
+.defaultSkin #charmap a {display:block; color:#000; text-decoration:none; border:0}
+.defaultSkin #charmap a:hover {background:#CCC;color:#2B6FB6}
+.defaultSkin #charmap #codeN {font-size:10px; font-family:Arial,Helvetica,sans-serif; text-align:center}
+.defaultSkin #charmap #codeV {font-size:40px; height:80px; border:1px solid #AAA; text-align:center}
+
+/* Source */
+.defaultSkin .wordWrapCode {vertical-align:middle; border:1px none #000000; background:transparent;}
+.defaultSkin .mceActionPanel {margin-top:5px;}
+
+/* Tabs classes */
+.defaultSkin .tabs {width:100%; height:18px; line-height:normal; background:url(img/tabs.gif) repeat-x 0 -72px;}
+.defaultSkin .tabs ul {margin:0; padding:0; list-style:none;}
+.defaultSkin .tabs li {float:left; background:url(img/tabs.gif) no-repeat 0 0; margin:0 2px 0 0; padding:0 0 0 10px; line-height:17px; height:18px; display:block;}
+.defaultSkin .tabs li.current {background:url(img/tabs.gif) no-repeat 0 -18px; margin-right:2px;}
+.defaultSkin .tabs span {float:left; display:block; background:url(img/tabs.gif) no-repeat right -36px; padding:0px 10px 0 0;}
+.defaultSkin .tabs .current span {background:url(img/tabs.gif) no-repeat right -54px;}
+.defaultSkin .tabs a {text-decoration:none; font-family:Verdana, Arial; font-size:10px;}
+.defaultSkin .tabs a:link, .defaultSkin .tabs a:visited, .defaultSkin .tabs a:hover {color:black;}
+
+/* Panels */
+.defaultSkin .panel_wrapper div.panel {display:none;}
+.defaultSkin .panel_wrapper div.current {display:block; width:100%; height:300px; overflow:visible;}
+.defaultSkin .panel_wrapper {border:1px solid #919B9C; border-top:0px; padding:10px; padding-top:5px; clear:both; background:white;}
+
+/* Columns */
+.defaultSkin .column {float:left;}
+.defaultSkin .properties {width:100%;}
+.defaultSkin .properties .column1 {}
+.defaultSkin .properties .column2 {text-align:left;}
+
+/* Titles */
+.defaultSkin h1, .defaultSkin h2, .defaultSkin h3, .defaultSkin h4 {color:#2B6FB6; margin:0; padding:0; padding-top:5px;}
+.defaultSkin h3 {font-size:14px;}
+.defaultSkin .title {font-size:12px; font-weight:bold; color:#2B6FB6;}
+
+/* Dialog specific */
+.defaultSkin #link .panel_wrapper, .defaultSkin #link div.current {height:125px;}
+.defaultSkin #image .panel_wrapper, .defaultSkin #image div.current {height:200px;}
+.defaultSkin #plugintable thead {font-weight:bold; background:#DDD;}
+.defaultSkin #plugintable, .defaultSkin #about #plugintable td {border:1px solid #919B9C;}
+.defaultSkin #plugintable {width:96%; margin-top:10px;}
+.defaultSkin #pluginscontainer {height:290px; overflow:auto;}
+.defaultSkin #colorpicker #preview {float:right; width:50px; height:14px;line-height:1px; border:1px solid black; margin-left:5px;}
+.defaultSkin #colorpicker #colors {float:left; border:1px solid gray; cursor:crosshair;}
+.defaultSkin #colorpicker #light {border:1px solid gray; margin-left:5px; float:left;width:15px; height:150px; cursor:crosshair;}
+.defaultSkin #colorpicker #light div {overflow:hidden;}
+.defaultSkin #colorpicker #previewblock {float:right; padding-left:10px; height:20px;}
+.defaultSkin #colorpicker .panel_wrapper div.current {height:175px;}
+.defaultSkin #colorpicker #namedcolors {width:150px;}
+.defaultSkin #colorpicker #namedcolors a {display:block; float:left; width:10px; height:10px; margin:1px 1px 0 0; overflow:hidden;}
+.defaultSkin #colorpicker #colornamecontainer {margin-top:5px;}
+.defaultSkin #colorpicker #picker_panel fieldset {margin:auto;width:325px;}

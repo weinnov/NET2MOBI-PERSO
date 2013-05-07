@@ -1,0 +1,39 @@
+<!DOCTYPE html><html class="ui-mobile landscape min-width-320px min-width-480px min-width-768px min-width-1024px"><head>
+		<meta name="viewport" content="width=320, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" net2natif="">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" net2natif="">
+		<!-- meta name="viewport" content="width=device-width, target-densityDpi=medium-dpi" net2natif/ -->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" net2natif="">
+		<meta name="description" content="" net2natif="">
+		<meta name="keywords" content="" net2natif="">
+		<title net2natif="">Mobile Site</title>
+		
+		<link rel="stylesheet" href="jquery-ui-1.9.2.custom.min.css" net2natif="">
+		<link rel="stylesheet" href="jquery.mobile-1.2.0.min.css" net2natif="">
+		<link rel="stylesheet" href="style.css" net2natif="">
+		<script type="text/javascript" src="jquery.js" net2natif=""></script>
+		<script type="text/javascript" src="jquery-ui-1.9.2.min.js" net2natif=""></script>
+		<script type="text/javascript" src="jquery.mobile-1.2.0.min.js" net2natif=""></script>
+		
+	</head><body><style id="Textbox1_style" net2natif="">#textbox1365153161130{-moz-box-shadow : 0 1px 13px rgba(36, 30, 30, 1);-webkit-box-shadow : 0 1px 13px rgba(36, 30, 30, 1);box-shadow : 0 1px 13px rgba(36, 30, 30, 1);border-radius:10px;border-style:solid;overflow:hidden;border-width:5px;border-color:rgba(226, 242, 213, 1);background-color:rgba(226, 242, 213, 1);}
+#label1365153161129{color:rgb(240, 240, 240);font-weight:400;font-size:18px;font-style:normal;text-decoration:none;font-family:Helvetica, Arial, sans-serif;text-align:start;}</style><style id="Menu2_style" net2natif="">#Menu2 li:not([data-role=list-divider]){background : rgba(255, 255, 255, 1);background : linear-gradient(top,rgba(255, 255, 255, 1),rgba(148, 148, 148, 1));background : -webkit-linear-gradient(top,rgba(255, 255, 255, 1),rgba(148, 148, 148, 1));background : -moz-linear-gradient(top,rgba(255, 255, 255, 1),rgba(148, 148, 148, 1));background : -o-linear-gradient(top,rgba(255, 255, 255, 1),rgba(148, 148, 148, 1));}
+#Menu2 li a p{color:rgb(255, 255, 255);font-weight:400;font-size:12px;font-style:normal;text-decoration:none;font-family:Helvetica, Arial, sans-serif;text-align:left;}
+#ulMenu2{-moz-box-shadow : 0 1px 21px rgba(13, 12, 12, 1);-webkit-box-shadow : 0 1px 21px rgba(13, 12, 12, 1);box-shadow : 0 1px 21px rgba(13, 12, 12, 1);}</style><style id="common_style" net2natif="">div[data-role=content]{;background : rgba(194, 255, 10, 1);background : linear-gradient(top,rgba(194, 255, 10, 1),rgba(57, 94, 1, 1));background : -webkit-linear-gradient(top,rgba(194, 255, 10, 1),rgba(57, 94, 1, 1));background : -moz-linear-gradient(top,rgba(194, 255, 10, 1),rgba(57, 94, 1, 1));background : -o-linear-gradient(top,rgba(194, 255, 10, 1),rgba(57, 94, 1, 1));color:rgba(240, 240, 240, 1);}</style>
+		
+		<div data-role="page" data-ajax="false" id="page_1" net2-index="1" net2natif="net2natif" data-url="page_1" tabindex="0" class="ui-page ui-body-c" style="min-height: 540px;">
+			<div data-role="content" net2natif="" class="ui-content ui-sortable" role="main"><div id="Paragraph1" class="net2-composant" style="position: relative;" net2natif="net2natif"><div id="ulParagraph1" net2class="net2-Paragraph" net2natif="" class="net2-Paragraph"><table style="width: 100%;" border="0" cellspacing="0" net2natif="net2natif">
+<tbody net2natif="net2natif">
+<tr net2natif="net2natif">
+<td net2natif="net2natif"><img src="http://net2mobi.org/net2mobi/script/imagemanager/net2mobi/files/1365172092_corbeille_propre_vide_box.png" alt="" width="186" height="186" net2natif="net2natif"></td>
+<td style="text-align: center;" net2natif="net2natif"><span style="font-size: xx-large;" net2natif="net2natif">Green Bag</span></td>
+</tr>
+</tbody>
+</table></div></div><div id="Menu2" class="net2-composant" style="position: relative;" net2-menu2="{'simpleli':{'isDegraded':true,'color1':'#ffffff','color2':'#949494','opacity1':'1.00','opacity2':'1.00','type':'linear','startPos':'top','target':'#Menu2 li+not([data-role=list-divider]):stl:background','text':'MENU ITEM : ','comp':'Menu2:common','rgba1':'rgba(255, 255, 255, 1)','rgba2':'rgba(148, 148, 148, 1)','index':'simpleli','saveIdx':'normal','config':null,'btnStyle':'blue'},'boxshadow':{'color':'#0d0c0c','rgba':'rgba(13, 12, 12, 1)','opacity':'1.00','width':'21','saveIdx':'boxshadow','target':'#ulMenu2:stl:na','comp':'Menu2:common','targettype':'box-shadow','type':'boxshadow','index':'boxshadow','text':'Cadre : ','config':null,'btnStyle':'blue'}}" net2natif="net2natif"><ul net2natif="" data-role="listview" data-divider-theme="b" data-inset="true" id="ulMenu2" net2class="net2-Menu" class="Menu2 net2-Menu ui-listview ui-listview-inset ui-corner-all ui-shadow"><li net2natif="" net2class="net2-elements" data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c" class="ui-btn ui-btn-up-c ui-btn-icon-right ui-li-has-arrow ui-li ui-li-has-thumb ui-corner-top" id="net2-editable1365150751266"><a net2natif="" href="#page_1" class="ui-link-inherit ui-li-has-thumb"><img src="http://net2mobi.org/net2mobi/script/imagemanager/net2mobi/files/temp mihaja/ico_4/063638-green-metallic-orb-icon-people-things-briefcase.png" net2natif="" class="ui-li-thumb ui-corner-tl"><h3 net2natif="" class="ui-li-heading">Menu item 1</h3><p net2natif="" class="ui-li-desc">Description Description </p></a></li><li net2class="net2-elements" net2natif="" data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c" class="ui-btn ui-btn-up-c ui-btn-icon-right ui-li-has-arrow ui-li ui-li-has-thumb" id="net2-editable1365150751272"><a net2natif="" href="#page_1" class="ui-link-inherit ui-li-has-thumb"><img src="http://net2mobi.org/net2mobi/script/imagemanager/net2mobi/files/temp mihaja/ico_4/063641-green-metallic-orb-icon-people-things-button3.png" net2natif="" class="ui-li-thumb"><h3 net2natif="" class="ui-li-heading">Menu item 2</h3><p net2natif="" class="ui-li-desc">Description Description </p></a></li><li value="o3" net2class="net2-elements" net2natif="" data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c" class="ui-btn ui-btn-up-c ui-btn-icon-right ui-li-has-arrow ui-li ui-li-has-thumb ui-corner-bottom ui-li-last" id="net2-editable1365150778388"><a href="#page_1" net2natif="" class="ui-link-inherit ui-li-has-thumb"><img src="http://net2mobi.org/net2mobi/script/imagemanager/net2mobi/files/temp mihaja/ico_4/063649-green-metallic-orb-icon-people-things-chalkboard.png" net2natif="" class="ui-li-thumb ui-corner-bl"><h3 net2natif="" class="ui-li-heading">Menu item 4</h3><p net2natif="" class="ui-li-desc">Description Description </p></a></li></ul></div><div id="Textbox1" class="net2-composant" net2-textbox1="{'boxshadow':{'color':'#241e1e','rgba':'rgba(36, 30, 30, 1)','opacity':'1.00','width':'13','saveIdx':'boxshadow','target':'#textbox1365153161130:stl:na','comp':'Textbox1:common','targettype':'box-shadow','type':'boxshadow','index':'boxshadow','text':'Box shadow : ','config':null,'btnStyle':'blue'}}" net2natif="net2natif"><label for="1365153161130" id="label1365153161129" net2class="net2-Label" net2natif="" class="net2-Label">SEARCH</label><input type="text" name="name" id="textbox1365153161130" value="Default value" net2class="net2-Input" class="net2-Input ui-input-text ui-body-c ui-corner-all ui-shadow-inset" net2natif=""></div></div>
+		</div>
+	
+
+
+
+
+
+	
+</body></html>
