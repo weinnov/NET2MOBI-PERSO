@@ -1,9 +1,9 @@
 net2mobi
-<br>========
-<br>
+========
+
 Open source mobile web &amp; mobile app cms
-<br>
-<br>-------------------------------------------
+
+-------------------------------------------
 <br>Installation:
 <br>
 <br>1- Copy the “net2mobi” folder containing all the files, into a location on your FTP website
@@ -14,8 +14,7 @@ execute the query.<br>
 3- Coming soon
 <br>
 <br>
-<br>
--------------------------------------------
+-----------------------------------------
 <br>A demo preview of the net2mobi CMS back-end is avalaible at www.net2mobi.org
 <br>Current source doesn't include image manager feature as shown in the demo site. Codes will be made available as soon as
 we get the necessary Enterprise license of MCI Image manager. If you have your own MCI Image manager files, you can place the folder at http://yourdomain/NET2MOBI/tree/master/Net2mobi/script to enable the feature
